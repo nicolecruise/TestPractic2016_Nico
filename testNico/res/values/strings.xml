@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestPractic2016</string>
+    <string name="press_me_too">Press me too!</string>
+    <string name="press_me">Press me!</string>
+    <string name="navigate_to_secondary_activity">Navigate to secondary activity!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="button1">Press me!</string>
+    <string name="button2">Press me!</string>
+    <string name="button3">Press me!</string>
+    <string name="button4">Press me!</string>
+    
+     <string name="ok">OK </string>
+     <string name="cancel">Cancel </string>
+     <string name="title_activity_practical_test01_secondary">PracticalTest01SecondaryActivity</string>
+    
+
+</resources>
